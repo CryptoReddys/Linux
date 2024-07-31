@@ -67,7 +67,7 @@ nano <file>
 ### git
 ```console
 # Transfer a github repository into linux
-git clone https://github.com/reddys/Linux_Node_Guide
+git clone https://github.com/CryptoReddys/Linux
 ```
 
 ### Screen
