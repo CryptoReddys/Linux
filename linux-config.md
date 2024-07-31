@@ -118,4 +118,4 @@ sudo apt install htop
 # Run
 htop
 ```
-![Screenshot_115](https://github.com/user-attachments/assets/97921a17-485c-47a0-ae07-be454da80afc)
+
