@@ -23,8 +23,8 @@ mkdir <folder name>
 # Create 2 folders
 mkdir <folder name> <folder name2>
 
-# Create moei folder
-mkdir moei
+# Create reddys folder
+mkdir reddys
 ```
 
 ### cd: go to directories
@@ -35,8 +35,8 @@ cd
 # Go to custom directory by replacing <directory path>
 cd <directory path>
 
-# Go to moei
-cd moei
+# Go to reddys
+cd reddys
 
 # Go to parent directory
 cd ..
@@ -67,7 +67,7 @@ nano <file>
 ### git
 ```console
 # Transfer a github repository into linux
-git clone https://github.com/0xmoei/Linux_Node_Guide
+git clone https://github.com/reddys/Linux_Node_Guide
 ```
 
 ### Screen
