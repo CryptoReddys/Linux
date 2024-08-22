@@ -89,4 +89,10 @@ screen -ls
 
 # Return to screen
 screen -r <screen-name>
+
+# Attached to Deattach Screen
+screen -d <screen-name>
+
+# remove screen
+screen -X -S name quit
 ```
