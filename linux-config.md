@@ -14,6 +14,16 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y
 ```
 
+## Git
+```console
+sudo apt install git-all && git --version
+```
+
+## Rust 
+```console
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh && rustc --version
+```
+
 ## Python3, pip
 ```console
 ## Python 3.8 Pip, Python3 Install
